@@ -166,7 +166,6 @@ ZERO13_BOARD = """\
 {style:black on white}---+|hdmi|{style:white on green} {style:on black}+----+{style:on green} {style:black on white}usb{style:on green} {style:on white}pwr{style:white on green} |{style:reset}
 {style:white on green}`---{style:black on white}|    |{style:white on green}--------{style:black on white}| |{style:white on green}-{style:black on white}| |{style:white on green}-'{style:reset}"""
 
-
 CM_BOARD = """\
 {style:white on green}+-----------------------------------------------------------------------------------------------------------------------+{style:reset}
 {style:white on green}| Raspberry Pi Compute Module %d                                                                                         |{style:reset}
